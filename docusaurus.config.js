@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Daniil`s site',
   tagline: 'Dogs are cool',
-  favicon: 'static/img/favicon.ico',
+  favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
   url: 'https://daniilkorniichuk.github.io',
